@@ -1,3 +1,4 @@
+/* I made a program where you can watch the weather in Omsk, Russia.*/
 package main
 
 import (
